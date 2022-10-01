@@ -1,0 +1,16 @@
+.category-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 20px 0;
+}
+.category-wrapper button {
+    margin-right: 10px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    background-color: #333;
+    color: #ddd;
+    cursor: pointer;
+}
